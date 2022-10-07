@@ -1,0 +1,59 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.main{
+    width: 500px;
+    background-color: rgb(239, 236, 236);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.timer{
+    width: 70px;
+    height: 70px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-left: auto;
+}
+.position{
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.passed{
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.failed{
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.timeOver{
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.startQuiz{
+    margin-top: 150px;
+    display: flex;
+    border-radius: 50%;
+  
+}
+ 
